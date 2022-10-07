@@ -1,0 +1,1 @@
+my first dcript to pring absilute working directory
